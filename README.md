@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Mohamed Mahmoud 👨‍💻
 
-Welcome to my GitHub profile! I'm a student at the **University of Nouakchott**, pursuing a degree in **Maths-Physics-Informatics**. I'm passionate about coding and learning new technologies, and I'm always eager to improve my skills and collaborate on exciting projects!
+Welcome to my GitHub profile! I'm a student at the **University of Nouakchott Al Aasriya**, pursuing a degree in **Maths-Physics-Informatics**. I'm passionate about coding and learning new technologies, and I'm always eager to improve my skills and collaborate on exciting projects!
 
 ### 🧑‍🎓 About Me:
 - 🎓 **Studying:** Maths-Physics-Informatics  
