@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there! 👋 I'm Mohamed Mahmoud 👨‍💻
 
-<!--
-**mdcheikh/mdcheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a student at the **University of Nouakchott**, pursuing a degree in **Maths-Physics-Informatics**. I'm passionate about coding and learning new technologies, and I'm always eager to improve my skills and collaborate on exciting projects!
 
-Here are some ideas to get you started:
+### 🧑‍🎓 About Me:
+- 🎓 **Studying:** Maths-Physics-Informatics  
+- 🌍 **From:** Tevragh Zeina, Mauritania  
+- 🌱 **Currently learning:** Advanced algorithms, data structures, and full-stack development  
+- 💬 **Ask me about:** Python, web development, and MySQL   
+- ⚡ **Fun fact:** I love breaking down complex problems into simple solutions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Skills:
+- **Python** 🐍
+- **Django** 🌐
+- **HTML & CSS** 🎨
+- **MySQL** 🗄️
+- **Java** ☕
+- **Bootstrap** 💅
+- **Data Structures & Algorithms** 💡
+
+### 🚀 My Learning Journey:
+I'm on an exciting path of continuous learning and improvement in software development. Here's what I'm currently focusing on:
+- 🔭 **Projects:** Building Django applications and Python scripts
+- 🌱 **Learning:** Advanced concepts in MySQL and Java
