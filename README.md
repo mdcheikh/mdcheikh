@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a student at the **University of Nouakchott Al
 - **HTML & CSS** 🎨
 - **MySQL** 🗄️
 - **Java** ☕
-- **Bootstrap** 💅
+- **Bootstrap** 
 - **Data Structures & Algorithms** 💡
 
 ### 🚀 My Learning Journey:
